@@ -1,6 +1,6 @@
 # AI-Powered Business Report Generator
 
-**Mini Project — Roll No. 70**
+**Mini Project —**
 
 A Streamlit application that analyses a sales CSV using Pandas, displays business KPIs and charts with Plotly, and uses Google Gemini to generate a written business report from aggregated statistics.
 
